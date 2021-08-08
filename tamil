@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Astro Vellithirai" group-title="TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png", Astro Vellithirai
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
+
+#EXTINF:-1 tvg-id="Astro Vinmeen" group-title="TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png", Astro Vinmeen
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400751.m3u8
+
+#EXTINF:-1 tvg-id="Star Vijay" group-title="TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png", Star Vijay
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.m3u8
+
+#EXTINF:-1 tvg-id="Sun Music" group-title="TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Sun_music_2014.jpg", Sun Music
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400717.m3u8
+
+#EXTINF:-1 tvg-id="Sun Tv" group-title="TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png", Sun Tv
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400718.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/MK_Six.png/revision/latest?cb=20191225172020" group-title="TAMIL", MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/MK_Tunes.png/revision/latest/scale-to-width-down/230?cb=20191225172859" group-title="TAMIL",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/MKTV.png/revision/latest?cb=20191225171218" group-title="TAMIL",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
